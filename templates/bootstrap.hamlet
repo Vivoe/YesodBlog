@@ -1,0 +1,9 @@
+<h1 class="jumbotron">Button page (:
+<ul class="nav navbar nav">
+    <li>
+        <a href="#">Home
+    <li>
+        <a href="/blog">Blog!
+    <li>
+        <a href="/echo/Thing!">Echo thing!
+<button class="btn">Button! :D
