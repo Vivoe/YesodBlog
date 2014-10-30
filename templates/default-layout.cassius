@@ -1,0 +1,41 @@
+.accent
+    background-color: #FF88DD
+
+.light
+    background-color: #234646
+    color: #353634
+
+.dark
+    background-color: #444444
+    color: #999999
+
+.header-dark
+    background-color: #D1D1D1
+    color: #353634
+
+.header-light
+    background-color: #35634
+    color: #D1D1D1
+ 
+.jumbotron
+    text-align:center
+
+.accent-text
+    color: #FF88DD 
+
+.accent
+    background-color: #FF88DD
+
+a
+    color: #E0249A
+
+body
+    color: #353634
+
+hr
+    border-color: #FF88DD
+    background-color: #FF88DD
+    height: 2px
+
+footer
+    text-align: center

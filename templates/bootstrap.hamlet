@@ -1,9 +1,38 @@
-<h1 class="jumbotron">Button page (:
-<ul class="nav navbar nav">
-    <li>
-        <a href="#">Home
-    <li>
-        <a href="/blog">Blog!
-    <li>
-        <a href="/echo/Thing!">Echo thing!
-<button class="btn">Button! :D
+<div class="container-fluid">
+    <nav class "navbar" role="navigation">
+        <ul class="nav nav-pills navbar-default navbar header-light">
+            <li>
+                <a class="navbar-brand" href="/"><sub>the</sub>JustinShow.
+            <li>
+                <a href="/echo/Echo">Echo<sub>echo</sub>
+            <li>
+                <a href="/blog">Blog
+            <li>
+                <a href="/">Projects 
+    <div class="jumbotron"><h1>Welcome to theJustinShow! :D  
+    <div class="row">
+        <div class="col-md-8"><h2> Things about me.</h2>
+            <ul>
+                <li>Name: Justin Ng
+                <li>Occupation: Student
+                <li>Education: Univerity of Waterloo
+                <li>Program: Bioinformatics. 
+                <li>Remark: Bonus points if you know what that is.
+                <li>Back end > front end. Mostly because I'm better at back end.
+                <li>I have a <a class="accent-text" href="https://github.com/Vivoe">GitHub.</a>
+                <li>I made an <a class="accent-text" href="https://play.google.com/store/apps/developer?id=Justin+Ng">app</a> once upon a time.
+                <li>This site is made using <a class="accent-text" href="http://www.yesodweb.com/">Yesod</a>.
+                Stuff.
+                <hr>
+                Stuff.
+
+        <div class="col-md-4"><h2> Things I've used before.
+            <hr class="accent-text">
+            <div class="row">
+                <img class="col-md-6 img-responsive img-rounded" src=@{StaticR haskell_logo_svg}>
+                <img class="col-md-6 img-responsive img-rounded" src=@{StaticR java_logo_png}>
+                <img class="col-md-6 img-responsive img-rounded" src=@{StaticR racket_logo_png}>
+                <img class="col-md-6 img-responsive img-rounded" src=@{StaticR sqlite_logo_png}>
+                <img class="col-md-6 img-responsive img-rounded" src=@{StaticR html_css_js_logo_png}>
+    <button class="btn dark" onclick="btn1();">Button! :D
+    Marked Text. Text. <span class="dark">TEXT.</span> Text.
